@@ -1,2 +1,2 @@
 # JavaCourse
-All topics and files used in my Java Course
+Some topics and files used in my Java Course
